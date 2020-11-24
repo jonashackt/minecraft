@@ -62,10 +62,15 @@ Own domain using Route53: https://docs.aws.amazon.com/de_de/Route53/latest/Devel
 
 Problem: standard Minecraft client costs about 24€ - may be too much, if you want to 200 students?!
 
-Alternatives? https://liquidbounce.net/  (https://github.com/CCBlueX/LiquidBounce)
+Alternatives?
+
+* https://liquidbounce.net/  (https://github.com/CCBlueX/LiquidBounce) - but only for Forge (no Bukkit/Spigot/Paper)
+* https://sigmaclient.info/
+
+-> nope, we do need the client in both ways it seems
+
 
 Disable Pillagers: https://marc.tv/stabiler-minecraft-server-raspberry-pi4/#welche-hardware-benoetigt-man 
-
 
 ##### Resources per User
 
@@ -77,6 +82,14 @@ Historic: 100MB/User - 10Users/1GB RAM
 
 > With 64GB of RAM the server should be able to run around 1000 Users
 
+
+### file formats of minecraft worlds? --> aka Dev-Process Minecraft
+
+Directory, Java files... 
+
+NPC Plugin? Which Plugins used from https://dev.bukkit.org/bukkit-plugins?
+
+--> How are scripted NPCs saved?
 
 
 # Links
